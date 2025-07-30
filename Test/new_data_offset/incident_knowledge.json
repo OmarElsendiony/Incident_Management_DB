@@ -1,0 +1,494 @@
+{
+  "101": {
+    "incident_id": "201",
+    "knowledge_base_id": "77",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "101"
+  },
+  "102": {
+    "incident_id": "204",
+    "knowledge_base_id": "76",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "102"
+  },
+  "103": {
+    "incident_id": "205",
+    "knowledge_base_id": "66",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "103"
+  },
+  "104": {
+    "incident_id": "209",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "104"
+  },
+  "105": {
+    "incident_id": "210",
+    "knowledge_base_id": "92",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "105"
+  },
+  "106": {
+    "incident_id": "212",
+    "knowledge_base_id": "78",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "106"
+  },
+  "107": {
+    "incident_id": "213",
+    "knowledge_base_id": "77",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "107"
+  },
+  "108": {
+    "incident_id": "214",
+    "knowledge_base_id": "77",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "108"
+  },
+  "109": {
+    "incident_id": "216",
+    "knowledge_base_id": "79",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "109"
+  },
+  "110": {
+    "incident_id": "217",
+    "knowledge_base_id": "56",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "110"
+  },
+  "111": {
+    "incident_id": "218",
+    "knowledge_base_id": "90",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "111"
+  },
+  "112": {
+    "incident_id": "219",
+    "knowledge_base_id": "57",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "112"
+  },
+  "113": {
+    "incident_id": "220",
+    "knowledge_base_id": "88",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "113"
+  },
+  "114": {
+    "incident_id": "223",
+    "knowledge_base_id": "81",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "114"
+  },
+  "115": {
+    "incident_id": "224",
+    "knowledge_base_id": "75",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "115"
+  },
+  "116": {
+    "incident_id": "225",
+    "knowledge_base_id": "92",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "116"
+  },
+  "117": {
+    "incident_id": "228",
+    "knowledge_base_id": "91",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "117"
+  },
+  "118": {
+    "incident_id": "230",
+    "knowledge_base_id": "79",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "118"
+  },
+  "119": {
+    "incident_id": "232",
+    "knowledge_base_id": "74",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "119"
+  },
+  "120": {
+    "incident_id": "233",
+    "knowledge_base_id": "67",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "120"
+  },
+  "121": {
+    "incident_id": "236",
+    "knowledge_base_id": "63",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "121"
+  },
+  "122": {
+    "incident_id": "239",
+    "knowledge_base_id": "95",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "122"
+  },
+  "123": {
+    "incident_id": "240",
+    "knowledge_base_id": "58",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "123"
+  },
+  "124": {
+    "incident_id": "242",
+    "knowledge_base_id": "71",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "124"
+  },
+  "125": {
+    "incident_id": "243",
+    "knowledge_base_id": "88",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "125"
+  },
+  "126": {
+    "incident_id": "244",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "126"
+  },
+  "127": {
+    "incident_id": "245",
+    "knowledge_base_id": "62",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "127"
+  },
+  "128": {
+    "incident_id": "247",
+    "knowledge_base_id": "81",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "128"
+  },
+  "129": {
+    "incident_id": "248",
+    "knowledge_base_id": "57",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "129"
+  },
+  "130": {
+    "incident_id": "249",
+    "knowledge_base_id": "85",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "130"
+  },
+  "131": {
+    "incident_id": "254",
+    "knowledge_base_id": "88",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "131"
+  },
+  "132": {
+    "incident_id": "256",
+    "knowledge_base_id": "78",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "132"
+  },
+  "133": {
+    "incident_id": "258",
+    "knowledge_base_id": "79",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "133"
+  },
+  "134": {
+    "incident_id": "259",
+    "knowledge_base_id": "80",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "134"
+  },
+  "135": {
+    "incident_id": "260",
+    "knowledge_base_id": "81",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "135"
+  },
+  "136": {
+    "incident_id": "263",
+    "knowledge_base_id": "76",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "136"
+  },
+  "137": {
+    "incident_id": "265",
+    "knowledge_base_id": "85",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "137"
+  },
+  "138": {
+    "incident_id": "268",
+    "knowledge_base_id": "62",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "138"
+  },
+  "139": {
+    "incident_id": "270",
+    "knowledge_base_id": "63",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "139"
+  },
+  "140": {
+    "incident_id": "272",
+    "knowledge_base_id": "95",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "140"
+  },
+  "141": {
+    "incident_id": "277",
+    "knowledge_base_id": "99",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "141"
+  },
+  "142": {
+    "incident_id": "278",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "142"
+  },
+  "143": {
+    "incident_id": "280",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "143"
+  },
+  "144": {
+    "incident_id": "283",
+    "knowledge_base_id": "100",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "144"
+  },
+  "145": {
+    "incident_id": "284",
+    "knowledge_base_id": "84",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "145"
+  },
+  "146": {
+    "incident_id": "285",
+    "knowledge_base_id": "59",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "146"
+  },
+  "147": {
+    "incident_id": "286",
+    "knowledge_base_id": "62",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "147"
+  },
+  "148": {
+    "incident_id": "287",
+    "knowledge_base_id": "95",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "148"
+  },
+  "149": {
+    "incident_id": "288",
+    "knowledge_base_id": "100",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "149"
+  },
+  "150": {
+    "incident_id": "289",
+    "knowledge_base_id": "72",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "150"
+  },
+  "151": {
+    "incident_id": "290",
+    "knowledge_base_id": "57",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "151"
+  },
+  "152": {
+    "incident_id": "291",
+    "knowledge_base_id": "92",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "152"
+  },
+  "153": {
+    "incident_id": "292",
+    "knowledge_base_id": "66",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "153"
+  },
+  "154": {
+    "incident_id": "294",
+    "knowledge_base_id": "93",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "154"
+  },
+  "155": {
+    "incident_id": "295",
+    "knowledge_base_id": "57",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "155"
+  },
+  "156": {
+    "incident_id": "296",
+    "knowledge_base_id": "76",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "156"
+  },
+  "157": {
+    "incident_id": "298",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "157"
+  },
+  "158": {
+    "incident_id": "299",
+    "knowledge_base_id": "90",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "158"
+  },
+  "159": {
+    "incident_id": "303",
+    "knowledge_base_id": "100",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "159"
+  },
+  "160": {
+    "incident_id": "307",
+    "knowledge_base_id": "99",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "160"
+  },
+  "161": {
+    "incident_id": "309",
+    "knowledge_base_id": "76",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "161"
+  },
+  "162": {
+    "incident_id": "310",
+    "knowledge_base_id": "75",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "162"
+  },
+  "163": {
+    "incident_id": "311",
+    "knowledge_base_id": "63",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "163"
+  },
+  "164": {
+    "incident_id": "316",
+    "knowledge_base_id": "98",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "164"
+  },
+  "165": {
+    "incident_id": "317",
+    "knowledge_base_id": "99",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "165"
+  },
+  "166": {
+    "incident_id": "318",
+    "knowledge_base_id": "61",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "166"
+  },
+  "167": {
+    "incident_id": "319",
+    "knowledge_base_id": "99",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "167"
+  },
+  "168": {
+    "incident_id": "320",
+    "knowledge_base_id": "87",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "168"
+  },
+  "169": {
+    "incident_id": "321",
+    "knowledge_base_id": "80",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "169"
+  },
+  "170": {
+    "incident_id": "323",
+    "knowledge_base_id": "77",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "170"
+  },
+  "171": {
+    "incident_id": "324",
+    "knowledge_base_id": "83",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "171"
+  },
+  "172": {
+    "incident_id": "325",
+    "knowledge_base_id": "74",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "172"
+  },
+  "173": {
+    "incident_id": "326",
+    "knowledge_base_id": "94",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "173"
+  },
+  "174": {
+    "incident_id": "327",
+    "knowledge_base_id": "61",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "174"
+  },
+  "175": {
+    "incident_id": "331",
+    "knowledge_base_id": "64",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "175"
+  },
+  "176": {
+    "incident_id": "332",
+    "knowledge_base_id": "64",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "176"
+  },
+  "177": {
+    "incident_id": "333",
+    "knowledge_base_id": "52",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "177"
+  },
+  "178": {
+    "incident_id": "334",
+    "knowledge_base_id": "86",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "178"
+  },
+  "179": {
+    "incident_id": "335",
+    "knowledge_base_id": "55",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "179"
+  },
+  "180": {
+    "incident_id": "336",
+    "knowledge_base_id": "65",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "180"
+  },
+  "181": {
+    "incident_id": "337",
+    "knowledge_base_id": "52",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "181"
+  },
+  "182": {
+    "incident_id": "340",
+    "knowledge_base_id": "89",
+    "created_at": "2025-07-29T09:02:00.000000",
+    "incident_knowledge_id": "182"
+  }
+}
